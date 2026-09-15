@@ -42,6 +42,18 @@ Each section is designed to help you **master internals, apply patterns, scale s
 
 ---
 
+## 📚 Chapters
+- [Core Language](docs/01-core-language.md)
+- [Async Mastery](docs/02-async-mastery.md)
+- [Patterns](docs/03-patterns.md)
+- [Security](docs/04-security.md)
+- [Performance](docs/05-performance.md)
+- [Browser APIs](docs/06-browser-apis.md)
+- [Tooling](docs/07-tooling.md)
+- [Node.js](docs/08-nodejs.md)
+
+---
+
 ## ✍️ Author & Signature
 **Vedprakash**  
 Front‑End Architect | SAP Commerce Cloud Enthusiast | Aspiring Tech Lead  
